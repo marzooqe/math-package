@@ -1,0 +1,21 @@
+def add(x,a):
+    return x+a
+    
+def sub(x,a):
+    return x-a
+    
+def mul(x,a):
+    return x*a
+
+
+def div(x,a):
+    return x/a
+    
+def sqr(x):
+    return x*x
+    
+def cube(x):
+    return x*x*x
+    
+if __name__=="__main__":
+    print("use this like a pkg")
