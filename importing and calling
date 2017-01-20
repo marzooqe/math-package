@@ -1,0 +1,11 @@
+The file can be imported and called as :
+
+import my_math as mm
+a=2
+b=2
+print mm.add(a,b)
+print mm.sub(a,b)
+print mm.mul(a,b)
+print mm.div(a,b)
+print mm.sqr(a)
+print mm.cube(a)
